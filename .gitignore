@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv*/
+Herbonauten/
+OCRensemble/
+sample*/
+master_thesis/config.json
+master_thesis/README.md
+master_thesis/data/
+

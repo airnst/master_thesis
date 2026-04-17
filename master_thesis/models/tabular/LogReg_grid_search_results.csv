@@ -1,0 +1,2 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_C,param_l1_ratio,param_solver,params,split0_test_score,split1_test_score,split2_test_score,mean_test_score,std_test_score,rank_test_score
+0.0053348541259765625,0.0004722482086633358,0.0036738713582356772,0.0009399877231536598,1.0,0,liblinear,"{'C': 1.0, 'l1_ratio': 0, 'solver': 'liblinear'}",0.7253218884120172,0.6695278969957081,0.7253218884120172,0.7067238912732474,0.026301539786624095,1

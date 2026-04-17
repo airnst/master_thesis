@@ -1,0 +1,2 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_metric,param_n_neighbors,param_weights,params,split0_test_score,split1_test_score,split2_test_score,mean_test_score,std_test_score,rank_test_score
+0.0019996960957845054,7.370009816086851e-07,0.20925394694010416,0.00047047122097760647,manhattan,24,distance,"{'metric': 'manhattan', 'n_neighbors': 24, 'weights': 'distance'}",0.7339055793991416,0.6824034334763949,0.721030042918455,0.7124463519313305,0.021884203920999056,1
